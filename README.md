@@ -31,4 +31,4 @@ npm run serve
 npm run build
 ```  
 
-### API KEY - має певний час для використання, якщо треба замінити key, то треба в store змінити значення const API_KEY  
+### API KEY - має певний час для використання, якщо треба замінити key - треба в store змінити значення const API_KEY  
