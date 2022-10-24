@@ -32,3 +32,8 @@ npm run build
 ```  
 
 ### API KEY - має певний час для використання, якщо треба замінити key - треба в store змінити значення const API_KEY  
+
+
+# Сайт опубліковано за адресою:
+
+[site](https://jgordaja.github.io/movies_site/)
