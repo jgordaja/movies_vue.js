@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es5",
     "module": "esnext",
-    "baseUrl": "./movies-vuejs",
+    "baseUrl": "https://movies-vuejs.herokuapp.com/",
     "moduleResolution": "node",
     "paths": {
       "@/*": [
